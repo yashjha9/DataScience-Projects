@@ -41,6 +41,3 @@ This repository contains my hands-on projects in Data Science, Machine Learning,
 
 ---
 
-## ⭐ Connect with Me
-
-(Add your LinkedIn here later)
